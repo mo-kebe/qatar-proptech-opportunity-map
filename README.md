@@ -1,23 +1,22 @@
-# Qatar PropTech Opportunity Map
+# Qatar PropTech — Public Design Showcase
 
-An interactive research prototype for validating MADAEN's Qatar entry thesis. It maps priority workflows, likely buyers and a measurable 90-day validation plan.
+A small public portfolio demonstration by **Pixology**, presenting possible digital-property experiences through illustrative screen content.
 
-## Priority hypotheses
+This repository contains a design demo, not a deployed product.
 
-1. Unified property inventory
-2. Request-to-property matching
-3. Auditable assignments
-4. Human-reviewed AI operations
+## Included in the preview
 
-## Validation discipline
+- Four illustrative experience themes
+- Clear visual presentation
+- Responsive portfolio layout
 
-This repository intentionally distinguishes hypotheses from verified facts. No market size, customer, revenue or adoption claims are presented without evidence.
-
-## Run
+## Run locally
 
 ```bash
 npm install
 npm run start
 ```
 
-Built by **Pixology** — Venture Engineering for Real-World Businesses.
+All names, examples and descriptions on this demo page are illustrative.
+
+Built by **Pixology**.
